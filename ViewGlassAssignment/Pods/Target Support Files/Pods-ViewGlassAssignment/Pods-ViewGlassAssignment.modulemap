@@ -1,0 +1,6 @@
+framework module Pods_ViewGlassAssignment {
+  umbrella header "Pods-ViewGlassAssignment-umbrella.h"
+
+  export *
+  module * { export * }
+}
