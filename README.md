@@ -2,6 +2,7 @@
 
 ## Demo
 
+![Alt Text](https://github.com/snehakasetty224/stock_market_chart_iOS/raw/master/ViewGlassGif.gif)
 
 ## API’s Used to get stock symbols and details
 
